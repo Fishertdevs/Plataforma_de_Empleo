@@ -2,7 +2,7 @@
 
 ## Desarrollado por Harry Fishert
 
-![Plataforma de Empleo](https://via.placeholder.com/800x400?text=Plataforma+de+Empleo)
+![Preview de la Plataforma de Empleo](job-platform/image.png)
 
 ## Descripción
 
@@ -15,8 +15,5 @@ Para clonar este repositorio:
 ```bash
 git clone https://github.com/Fishertdevs/Plataforma_de_Empleo.git
 
-## Preview
-
-![Preview de la Plataforma de Empleo](job-platform/image.png)
 
 
