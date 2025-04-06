@@ -2,7 +2,8 @@
 
 ## Desarrollado por Harry Fishert
 
-![Preview de la Plataforma de Empleo](job-platform/image.png)
+
+![alt text](image.png)
 
 ## Descripción
 
